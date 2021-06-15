@@ -1,5 +1,4 @@
 #Code1 To print 2D array
-print("Pranik Nikose Edit")
 print("To print 2D array")
 from numpy import *
 arr1=array([
